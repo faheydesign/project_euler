@@ -1,0 +1,22 @@
+{
+  "name": "project_euler",
+  "version": "1.0.0",
+  "description": "project_euler =============",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faheydesign/project_euler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheydesign/project_euler/issues"
+  },
+  "homepage": "https://github.com/faheydesign/project_euler",
+  "devDependencies": {
+    "should": "^4.0.4"
+  }
+}
